@@ -1,0 +1,10 @@
+"use strict";
+let lname;
+lname = "sss";
+let testname = lname.toUpperCase();
+console.log(testname);
+let age;
+age = 20;
+let dob = "25";
+let result = parseInt(dob);
+console.log(result);
